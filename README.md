@@ -1,4 +1,4 @@
-##Olá, sou o Julio
+<h2>Olá, sou o Julio</h2>
 
  - 💻 atualmente estudo desenvolvimento back-end
  - 🥸 senioridade: estágio/júnior
