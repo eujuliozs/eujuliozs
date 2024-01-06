@@ -1,6 +1,6 @@
 <h2>Olá, sou o Julio</h2>
 
- - 💻 atualmente estudo desenvolvimento back-end
+ - 💻 Desenvolvedor Full-Stack
  - 🥸 senioridade: estágio/júnior
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eujuliozs&show_private=true&theme=tokyonight)](https://github.com/eujuliozs/github-readme-stats)
